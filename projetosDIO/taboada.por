@@ -18,8 +18,7 @@ programa
 			contador ++
 		}
 		//limita o looping a 10 vezes 
-		enquanto (contador<=10)
-		
+		enquanto (contador<=10)		
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -27,7 +26,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 146; 
+ * @POSICAO-CURSOR = 430; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

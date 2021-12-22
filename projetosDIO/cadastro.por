@@ -8,12 +8,7 @@ programa
 		 
 		para (inteiro contador = 0; contador <=2; contador ++){
 			escreva (("\t"+contato[contador][0]) + "\t" + contato[contador][1] +"\t"+ contato[contador][2] +"\t"+ "\n")
-		}
-		
-
-			
-			
-			
+		}	
 		
 	}
 }
@@ -22,7 +17,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 234; 
+ * @POSICAO-CURSOR = 364; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
